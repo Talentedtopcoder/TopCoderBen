@@ -1,4 +1,4 @@
-I am innovative Senior Web Developer and Machine Learning Engineer with 10+ years of experience in application design, development, testing, and development.
+I am innovative Senior Web Developer and Machine Learning Engineer with 8+ years of experience in application design, development, testing, and development.
 <br/>
 Skills 
 <p align="left">
